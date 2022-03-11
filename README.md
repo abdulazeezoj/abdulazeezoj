@@ -1,4 +1,4 @@
-## <div align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdulazeez!</div>
+## <div align="center"><img src="https://raw.githubusercontent.com/abdulazeezoj/abdulazeezoj/main/github-header-image-3.png"></div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazeezoj&layout=compact&show_icons=true&theme=radical">
