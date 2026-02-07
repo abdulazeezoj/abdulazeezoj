@@ -10,7 +10,7 @@
 
 I build complete AI systems, from backend APIs and ML pipelines to frontend interfaces and cloud deployment. Not prototypes or demos, but production systems serving hundreds of users, processing thousands of queries, with proper monitoring and scalability.
 
-Currently shipping **SanCopilot** at Intermediate Data Systems: a RAG-based knowledge assistant serving 800+ financial consultants. I handle everything: AWS infrastructure (ECS, Bedrock, RDS), agentic workflows with Claude Sonnet 4.5, compliance guardrails, persistent state management, and the interfaces consultants actually use. We've cut research time by 75% and reduced operational costs by 30%.
+Currently shipping **SanCopilot** at Intermediate Data Systems: a RAG-based knowledge assistant serving 800+ financial consultants. I've built the full stack: AWS infrastructure (ECS, Bedrock, RDS), agentic workflows with Claude Sonnet 4.5, compliance guardrails, persistent state management, and the frontend interfaces. We've cut research time by 75% and reduced operational costs by 30%.
 
 My work spans the full stack: backend architecture for LLM applications, retrieval systems with vector databases, React/Next.js interfaces, cloud infrastructure, and the deployment pipelines that keep everything running reliably.
 
@@ -35,7 +35,6 @@ My work spans the full stack: backend architecture for LLM applications, retriev
 **GridScope** - Satellite Infrastructure Detection
 - YOLOv5x model achieving 74% mAP for power grid mapping
 - Serverless AWS Lambda API for scalable geospatial inference
-- Supporting India's green energy transition
 
 ## Tech Stack
 
@@ -51,7 +50,7 @@ My work spans the full stack: backend architecture for LLM applications, retriev
 
 Started building AI systems in 2021 through Omdena innovation challenges with zero prior AI experience. Converted open-source contributions into paid contracts, eventually landing at Intermediate Data Systems. Since then, I've shipped 6+ production systems across healthcare, agriculture, finance, and environmental monitoring.
 
-I'm finishing a BSc in Computer Science at Ahmadu Bello University (4.51/5.0 GPA, graduating September 2026) while working full-time. Every project I build is about proving execution over credentials.
+I'm finishing a BSc in Computer Science at Ahmadu Bello University (4.51/5.0 GPA, graduating September 2026) while working full-time.
 
 ## Current Focus
 
@@ -62,7 +61,7 @@ Exploring opportunities with teams building AI products that real users depend o
 - Agentic workflows and function-calling systems
 - Production computer vision applications
 
-Open to contract or full-time remote opportunities with startups shipping AI products. If you're building something real and need someone who can handle the full stack (from ML models and backend APIs to interfaces and deployment), let's talk.
+Open to contract or full-time remote opportunities with startups shipping AI products. If you need someone who can handle the full stack (from ML models and backend APIs to interfaces and deployment), let's talk.
 
 ---
 
