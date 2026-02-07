@@ -1,101 +1,69 @@
-<h1 align="center">Hi, I'm Abdulazeez Jimoh 👋</h1>
-<p align="center"><strong>AI/Software Engineer</strong> - Full-Stack & AI-Powered Products</p>
-<p align="center">
-  <a href="mailto:abdulazeezojimoh@gmail.com">Email</a> • 
-  <a href="https://linkedin.com/in/abdulazeez-oj">LinkedIn</a>
-</p>
+<h1 align="center">Abdulazeez Jimoh</h1>
+
+<p align="center"><strong>Full-Stack AI Engineer</strong> | Building production AI systems from idea to deployment</p>
+
+<p align="center">📍 Lagos, Nigeria • 🌍 Remote-first • 📧 <a href="mailto:abdulazeezojimoh@gmail.com">abdulazeezojimoh@gmail.com</a> • 💼 <a href="https://linkedin.com/in/abdulazeez-oj">LinkedIn</a></p>
 
 ---
 
-### 🚀 About Me
+## What I Do
 
-I specialize in delivering **full-stack** and **AI-driven** solutions, handling everything from initial discovery to backend APIs, frontends, deployment, and monitoring. My focus is on measurable results, robust architecture, and an excellent developer experience.
+I build complete AI systems, from backend APIs and ML pipelines to frontend interfaces and cloud deployment. Not prototypes or demos, but production systems serving hundreds of users, processing thousands of queries, with proper monitoring and scalability.
 
-- 🇳🇬 Based in Nigeria • open to remote/contract
-- 🧠 LLM/RAG systems, agentic workflows, classical CV/NLP
-- 🧩 Full-stack delivery: **FastAPI** backends, **React/Next.js** frontends, **PostgreSQL/MongoDB**, **Docker**, **CI/CD**, **Nginx**, **Azure/AWS**
+Currently shipping **SanCopilot** at Intermediate Data Systems: a RAG-based knowledge assistant serving 800+ financial consultants. I handle everything: AWS infrastructure (ECS, Bedrock, RDS), agentic workflows with Claude Sonnet 4.5, compliance guardrails, persistent state management, and the interfaces consultants actually use. We've cut research time by 75% and reduced operational costs by 30%.
 
----
+My work spans the full stack: backend architecture for LLM applications, retrieval systems with vector databases, React/Next.js interfaces, cloud infrastructure, and the deployment pipelines that keep everything running reliably.
 
-### 🧭 What I Build
+## What I've Shipped
 
-- **Full-Stack Apps:** Authenticated dashboards, CRUD + search, reporting, multi-tenant admin tools, payments, file processing, and robust RBAC.
-- **AI Systems:** Retrieval-augmented assistants, function-calling agents, evaluation/telemetry loops, computer-vision pipelines, domain-specific NLP.
+**SanCopilot** - Enterprise Knowledge Assistant
+- Serves 800+ financial consultants with intelligent Q&A and content drafting
+- 75% reduction in research time, 30% operational cost savings
+- AWS infrastructure: ECS, Bedrock (Claude Sonnet 4.5), RDS PostgreSQL
+- Fine-grained RBAC, compliance guardrails, regulatory adherence
 
----
+**ReproGuide** - Agricultural AI Assistant
+- RAG system over 500+ pages of USDA manuals with citation-grounded answers
+- 90% retrieval accuracy using React, FastAPI, Qdrant
+- Deployed via Nginx on GCP Compute Engine
 
-### 📈 Impact at a Glance
+**RetroRehab** - Computer Vision Rehabilitation
+- Real-time body tracking using MediaPipe, eliminating $300 wearable sensors
+- Sub-100ms latency, 60% improvement in patient adherence
+- AWS EC2 deployment with Application Load Balancer
 
-- Built an **LLM-based product specialist assistant** (OpenAI + Azure AI Search) that **cut response times by 60%** and **boosted agent efficiency by 40%**.
-- Delivered a **FastAPI** backend enabling content generation and client Q&A, leading to a **70% decrease in response times**.
-- Integrated **Tavily** and domain search to serve **95% accurate** responses.
-- Designed **agentic workflows** with function calling to **improve query resolution times by 55%**.
-- Created a **body-controlled rehab game** (React + Phaser + MediaPipe) that raised patient adherence by **60%**.
-- Built a **diet suggestion engine** (FastAPI) achieving **95% matching accuracy**.
-- Automated **drone-based tree counting** (YOLOv8), saving **80+ research hours per project**.
-- Shipped a **swine management chatbot** (Next.js + LLM + MongoDB + FastAPI) that cut resource waste by **20%** and improved yield by **15%**.
-- Deployed **satellite power-grid detection** (OpenCV + YOLOv8) at **93% accuracy**.
-- Built an **LLM/NLP knowledge tool** that saved diplomats **~4 hours/week**.
-- Launched a **case-study matcher** (MongoDB + embeddings) lifting lead conversion by **15%**.
-- Implemented a **multimodal misinformation detector**, cutting manual review time by **70%**.
+**GridScope** - Satellite Infrastructure Detection
+- YOLOv5x model achieving 74% mAP for power grid mapping
+- Serverless AWS Lambda API for scalable geospatial inference
+- Supporting India's green energy transition
 
-> _Numbers are from shipped projects and internal reports._
+## Tech Stack
 
----
-
-### 💼 Experience
-
-**AI Engineer (Contract) - Intermediate Data System, South Africa** _(May 2024 – Present)_
-
-- LLM assistant for product specialists (OpenAI SDK, Azure AI Search, Tavily)
-- FastAPI backend for Q&A + content generation
-- Agentic workflows with function calling for autonomous resolution
-
-**AI Engineer (Contract) - Omdena, New York, NY** _(Jan 2022 – Apr 2024)_
-
-- Rehab gaming (React, Phaser, MediaPipe) • Diet recommender (FastAPI)
-- Tree detection (YOLOv8) • Swine management chatbot (Next.js, LLM, MongoDB, FastAPI)
-
-**AI Software Engineer (Full-time) - Omdena, New York, NY** _(Jan 2021 – Dec 2021)_
-
-- Satellite imagery grid detection (OpenCV, YOLOv8) • LLM/NLP knowledge tools
-- Case-study matcher (embeddings) • Multimodal misinformation detection
-
----
-
-### 🧰 Tech Stack
-
-**Languages:** Python, JavaScript (TypeScript)
-**AI/ML:** PyTorch, TensorFlow, OpenCV, YOLOv5/v8, Embeddings, RAG, Agentic LLMs  
-**Backend:** FastAPI, REST, SQLModel, CI/CD, Docker, Nginx  
+**Languages:** Python, TypeScript/JavaScript  
+**AI/ML:** LangChain, LangGraph, OpenAI, Claude, Bedrock, HuggingFace, YOLOv8, PyTorch, TensorFlow  
+**Backend:** FastAPI, Node.js, REST APIs, SQLModel  
 **Frontend:** React, Next.js, Tailwind CSS, Shadcn UI  
-**Databases:** PostgreSQL, MongoDB  
-**Cloud/DevOps:** Azure, AWS, Azure DevOps, GitHub Actions, Docker Compose
+**Infrastructure:** AWS (ECS, ECR, RDS, OpenSearch, Lambda), Azure (AI Search, Container Apps), Docker, Nginx  
+**Data:** PostgreSQL, MongoDB, Qdrant, Azure AI Search, OpenSearch  
+**DevOps:** GitHub Actions, Azure DevOps, Docker Compose, Linux
+
+## Background
+
+Started building AI systems in 2021 through Omdena innovation challenges with zero prior AI experience. Converted open-source contributions into paid contracts, eventually landing at Intermediate Data Systems. Since then, I've shipped 6+ production systems across healthcare, agriculture, finance, and environmental monitoring.
+
+I'm finishing a BSc in Computer Science at Ahmadu Bello University (4.51/5.0 GPA, graduating September 2026) while working full-time. Every project I build is about proving execution over credentials.
+
+## Current Focus
+
+Exploring opportunities with teams building AI products that real users depend on. Particularly interested in:
+
+- Full-stack AI applications with RAG architectures
+- LLM observability and evaluation pipelines
+- Agentic workflows and function-calling systems
+- Production computer vision applications
+
+Open to contract or full-time remote opportunities with startups shipping AI products. If you're building something real and need someone who can handle the full stack (from ML models and backend APIs to interfaces and deployment), let's talk.
 
 ---
 
-### 🎓 Education
-
-**B.Sc. Computer Science** - Ahmadu Bello University, Zaria, Nigeria _(Nov 2022 – Sep 2026)_
-
----
-
-### 📬 Get in Touch
-
-- **LinkedIn:** https://linkedin.com/in/abdulazeez-oj
-- **Email:** abdulazeezojimoh@gmail.com
-
-<details>
-  <summary>🔍 What I'm exploring next</summary>
-  <ul>
-    <li>Building scalable, production-grade AI-powered applications</li>
-    <li>Advancements in LLM interpretability and explainability</li>
-    <li>Scaling RAG + agents for enterprise knowledge flows</li>
-    <li>Telemetry & observability for LLM apps (evals, feedback loops)</li>
-    <li>Efficient CV pipelines for resource-constrained environments</li>
-  </ul>
-</details>
-
----
-
-<p align="center">✨ If my work resonates, feel free to reach out - I'm open to collaborations and interesting problems.</p>
+**📬 Reach out:** [Email](mailto:abdulazeezojimoh@gmail.com) • [LinkedIn](https://linkedin.com/in/abdulazeez-oj)
